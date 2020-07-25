@@ -1,0 +1,13 @@
+# CPLEX Installation and Setup {#setup}
+
+Setting up CPLEX is a daunting task, especially if you are first time users.
+The challenges come from two aspects:
+
++ Where to get CPLEX?
++ How to incorporate CPLEX in Java programs to solve practical optimization problems?
+
+## Obtain CPLEX
+
+## CPLEX Installation
+
+## CPLEX Setup

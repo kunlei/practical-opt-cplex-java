@@ -1,0 +1,10 @@
+[
+["index.html", "Practical Optimization in Operations Research using CPLEX Java API Preface", " Practical Optimization in Operations Research using CPLEX Java API Kunlei Lian 2020-07-25 Preface There is no preface for now. "],
+["intro.html", "Chapter 1 Introduction 1.1 IBM ILOG CPLEX 1.2 Java", " Chapter 1 Introduction Before we get down to the business, let’s first clarify a few questions. 1.1 IBM ILOG CPLEX 1.2 Java "],
+["setup.html", "Chapter 2 CPLEX Installation and Setup 2.1 Obtain CPLEX 2.2 CPLEX Installation 2.3 CPLEX Setup", " Chapter 2 CPLEX Installation and Setup Setting up CPLEX is a daunting task, especially if you are first time users. The challenges come from two aspects: Where to get CPLEX? How to incorporate CPLEX in Java programs to solve practical optimization problems? 2.1 Obtain CPLEX 2.2 CPLEX Installation 2.3 CPLEX Setup "],
+["overview.html", "Chapter 3 API Overview", " Chapter 3 API Overview We describe our methods in this chapter. "],
+["applications.html", "Chapter 4 Applications 4.1 Example one 4.2 Example two", " Chapter 4 Applications Some significant applications are demonstrated in this chapter. 4.1 Example one 4.2 Example two "],
+["final-words.html", "Chapter 5 Final Words", " Chapter 5 Final Words We have finished a nice book. "],
+["colgen.html", "Chapter 6 Column Generation", " Chapter 6 Column Generation "],
+["references.html", "References", " References "]
+]
